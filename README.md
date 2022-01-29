@@ -1,6 +1,6 @@
 # Day-4----Web-Chronicles
 Angular
-These are all the files excluding node_modules, make sure to add them before running the project.
+These are all the files(in zip file) excluding node_modules, make sure to add them before running the project.
 
 These are the basic commands that we discussed on Day 4.
 
